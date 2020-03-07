@@ -7,3 +7,4 @@ Docker image based on `node:12-buster` that has several AWS tools pre installed.
 * `cfn-lint` - CloudFormation linter
 * `awsie` - Helper tool to get resource ids from CloudFormation
 * `aws-authenticate` - Tool to authenticate and manage AWS organizations
+* `jsmin` - Tool to minify javascript; use this to save characters in JSON documents
